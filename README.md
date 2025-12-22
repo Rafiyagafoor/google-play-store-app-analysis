@@ -1,6 +1,6 @@
 # 📊 Google Play Store App Analysis (EDA + Machine Learning)
 
-Overview
+Overview:
 This project analyzes the Google Play Store applications dataset using Exploratory Data Analysis (EDA) and Machine Learning.  
 The objective is to understand factors affecting app popularity and to predict the number of installs.
 
