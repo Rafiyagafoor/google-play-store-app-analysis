@@ -42,4 +42,7 @@ Predict the **number of installs** for a Google Play Store application.
 - R² Score  
 
 Random Forest Regressor achieved better performance compared to Multiple Linear Regression.
+## Conclusion
+This project analyzed the Google Play Store dataset using exploratory data analysis and machine learning. Ratings, reviews, and price were identified as important factors affecting app installs. Multiple Linear Regression was used as a baseline model, and Random Forest Regressor achieved better prediction accuracy. The project demonstrates how machine learning can be used to extract insights and make reliable predictions from real-world data.
+
 
