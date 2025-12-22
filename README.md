@@ -6,7 +6,7 @@ The objective is to understand factors affecting app popularity and to predict t
 
 ---
 
-##Tools & Technologies
+Tools & Technologies
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -15,7 +15,7 @@ The objective is to understand factors affecting app popularity and to predict t
 
 ---
 
-##Exploratory Data Analysis
+Exploratory Data Analysis
 - Dataset understanding and cleaning  
 - Handling missing values  
 - Distribution analysis of ratings and installs  
