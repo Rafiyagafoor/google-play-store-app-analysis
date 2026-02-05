@@ -8,14 +8,16 @@ The objective is to understand factors affecting app popularity, analyze categor
 ## Tools and Technologies
 
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-scikit-learn
-Tableau
-Jupyter Notebook / VS Code
++ Python
++ Pandas
++ NumPy
++ Matplotlib
++ Seaborn
++ scikit-learn
++ Tableau
++ Jupyter Notebook / VS Code
+
+
 ## Exploratory Data Analysis
 
 
